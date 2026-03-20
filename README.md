@@ -311,7 +311,7 @@ sh scripts/vllm_inference.sh
 
 ### Evalution
 
-We provide our evaluation codes under `evaluation/`, see [README.md](./evaluation/README.md) for more details.
+We provide our evaluation codes under `evaluation/`, see [README.md](./evaluation/README.md) for more details. 
 
 ## Star History
 
