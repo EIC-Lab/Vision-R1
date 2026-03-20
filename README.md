@@ -313,6 +313,4 @@ sh scripts/vllm_inference.sh
 
 We provide our evaluation codes under `evaluation/`, see [README.md](./evaluation/README.md) for more details.
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Osilly/Vision-R1&type=Date)](https://www.star-history.com/#Osilly/Vision-R1&Date)
